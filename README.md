@@ -204,5 +204,7 @@ Please note that these snippets are just examples, and you may need to modify th
 
 By following this checklist, you should be able to successfully create distributed traces using OpenTelemetry in your Go application. Remember to consult the OpenTelemetry Go documentation for more detailed information and examples.
 
+Please connect with me on LinkedIn if you have more questions: https://www.linkedin.com/in/monalisha-singh-85ba1091/
+
 
 
