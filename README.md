@@ -1,4 +1,4 @@
-# OpenTelemetryApp
+# OpenTelemetryApp Checklist
 **Checklist to create metrics using OpenTelemetry (OTel) in a Go application**
 1.	**Install OpenTelemetry Go SDK**: Begin by installing the OpenTelemetry Go SDK in your Go environment. You can use the following command to install the SDK:
 ```gp
